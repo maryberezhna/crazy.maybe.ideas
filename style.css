@@ -12,7 +12,7 @@ body {
     font-family: 'Georgia', sans-serif;
     background: #fff;
     color: #111;
-    border: 10px solid greenyellow;
+    border: 10px solid #c2dcff;
 }
 
 .body-wrapper {
@@ -42,7 +42,7 @@ body {
 
 .lang-switcher a:hover,
 .lang-switcher a.active {
-    border-bottom: 2px solid #ccff00;
+    border-bottom: 2px solid #c2dcff;
     /* neon green highlight */
 }
 
@@ -76,7 +76,7 @@ body {
     font-size: 18px;
     text-decoration: none;
     color: #000;
-    border-bottom: 3px solid #D4FF00;
+    border-bottom: 3px solid #c2dcff;
     padding-bottom: 2px;
     transition: opacity 0.3s;
 }
